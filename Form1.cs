@@ -34,7 +34,7 @@ namespace DSED05
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            punterRadioButtons = new RadioButton[] { radJack, radJeremy, radVaughn };
+            punterRadioButtons = new RadioButton[] { radJack, radVaughn, radJeremy  };
         }
         #endregion
 
